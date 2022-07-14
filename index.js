@@ -5,9 +5,9 @@ const headers = {
 }
 
 // 账号配置
-const user = ''; // 账号
-const password = ''; // 密码
-const STEP = Math.ceil(Math.random() * 10000) + 8000;
+const user = '13652883967'; // 账号
+const password = 'wayne858'; // 密码
+const STEP = Math.ceil(Math.random() * 19657) + 19138;
 
 const dateObj = new Date();
 let dataJson2 = [
